@@ -40,12 +40,22 @@ This project aims to predict equipment failures using real-world sensor data fro
 ---
 
 ## 📁 Project Structure
-Predictive_Maintenance_Project/
+```
+Predicitive_Maintenance_Project/
+│
 ├── data/
+│   └── predictive_maitenance.csv
+│   └── processed/
+│       └── processed_data.pkl
+│
 ├── notebooks/
-├── results/
+│   └── 01_EDA_Preprocessiing.ipynb
+│   └── 02_Modeling_and_Evaluation.ipynb
+│
 ├── README.md
+│
 └── requirements.txt
+```
 ---
 
 ## 📦 Tools & Libraries
