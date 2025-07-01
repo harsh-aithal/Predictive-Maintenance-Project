@@ -49,8 +49,8 @@ Predictive_Maintenance_Project/
 │   └── predictive_maintenance.csv
 │
 ├── notebooks/
-│   ├── EDA_preprocessing.ipynb
-│   └── Modeling_and_evaluation.ipynb
+│   ├── 01_EDA_Preprocessing.ipynb
+│   └── 02_Modeling_and_Evaluation.ipynb
 │
 ├── README.md
 └── requirements.txt
